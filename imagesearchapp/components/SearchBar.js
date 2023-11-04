@@ -3,8 +3,8 @@ import { StyleSheet, View, TextInput, Button } from 'react-native';
 
 const styles = StyleSheet.create({
   container: {
-    borderWidth: 1,
-    borderColor: 'red', // Set the border color here
+    borderWidth: 3.6,
+    borderColor: '#f3b', // Set the border color here
     borderRadius: 5,
     padding: 10,
     display:'flex',
